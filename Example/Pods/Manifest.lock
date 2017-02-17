@@ -1,0 +1,16 @@
+PODS:
+  - ToastNotification (0.1.0)
+
+DEPENDENCIES:
+  - ToastNotification (from `../`)
+
+EXTERNAL SOURCES:
+  ToastNotification:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ToastNotification: 235f8489ba8c90c9b4b661659e31d5fd234beee9
+
+PODFILE CHECKSUM: 19d69dac894e6aece7aefe5a4ba54e0a4b05dded
+
+COCOAPODS: 1.2.0
