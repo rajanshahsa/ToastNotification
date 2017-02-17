@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ToastNotification_Example' do
+  pod 'ToastNotification', :path => '../'
+
+  target 'ToastNotification_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
