@@ -30,13 +30,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0699AC210F41EED599E51CF5A0722402 /* Pods_ToastNotification_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ToastNotification_Example.framework; path = "Pods-ToastNotification_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0699AC210F41EED599E51CF5A0722402 /* Pods_ToastNotification_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ToastNotification_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D1DD010F66BD92F0F8846CA306370B2 /* Pods-ToastNotification_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ToastNotification_Tests-resources.sh"; sourceTree = "<group>"; };
 		0D66D12DB53ED219ABF2306C2C7C88A9 /* ToastNotification.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ToastNotification.xcconfig; sourceTree = "<group>"; };
 		1226ECFD762FE3D6B66EA1B296328ACC /* Pods-ToastNotification_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ToastNotification_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		21E1B600828EDC8D9F378A2674B40E58 /* Pods-ToastNotification_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ToastNotification_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		29C5B86A4A6B47543C9FBE252E26B48A /* Pods_ToastNotification_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ToastNotification_Tests.framework; path = "Pods-ToastNotification_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		339E5977F26BC5BAF3FF4C9D02273F55 /* Pods-ToastNotification_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-ToastNotification_Tests.modulemap"; sourceTree = "<group>"; };
+		29C5B86A4A6B47543C9FBE252E26B48A /* Pods_ToastNotification_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ToastNotification_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		339E5977F26BC5BAF3FF4C9D02273F55 /* Pods-ToastNotification_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-ToastNotification_Tests.modulemap"; sourceTree = "<group>"; };
 		377B6C28D798CB85E7567B2EB4994827 /* Pods-ToastNotification_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ToastNotification_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		4063FC3F59FA8F054D6936EACC57ECAF /* ToastNotification-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ToastNotification-dummy.m"; sourceTree = "<group>"; };
 		46D571D78ABD3D19C240C8A585B9C700 /* Pods-ToastNotification_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ToastNotification_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -48,13 +48,13 @@
 		6376B6FFADA838A7DEBB3E9FE5B9BFDC /* ToastNotification-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ToastNotification-prefix.pch"; sourceTree = "<group>"; };
 		6378970113E3FB7716633F9857F3C574 /* Pods-ToastNotification_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ToastNotification_Example-dummy.m"; sourceTree = "<group>"; };
 		63AE15A7874E6E2B7952ECF0F1265367 /* Pods-ToastNotification_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ToastNotification_Example-frameworks.sh"; sourceTree = "<group>"; };
-		63FF2CDF97E7C47227387922DDF2CEF8 /* Pods-ToastNotification_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-ToastNotification_Example.modulemap"; sourceTree = "<group>"; };
+		63FF2CDF97E7C47227387922DDF2CEF8 /* Pods-ToastNotification_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-ToastNotification_Example.modulemap"; sourceTree = "<group>"; };
 		71D8B188F1661F74A475C5B6C47B9E70 /* Pods-ToastNotification_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ToastNotification_Example.release.xcconfig"; sourceTree = "<group>"; };
-		74851C8F0CDF1FD6A69BEB2D599B9C85 /* ToastNotification.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = ToastNotification.modulemap; sourceTree = "<group>"; };
+		74851C8F0CDF1FD6A69BEB2D599B9C85 /* ToastNotification.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = ToastNotification.modulemap; sourceTree = "<group>"; };
 		7C72ECC6CCAE0FD4B7C890C83183832B /* Pods-ToastNotification_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ToastNotification_Example-resources.sh"; sourceTree = "<group>"; };
 		80CEAFEC637352F320C1242EFCF2A139 /* ToastNotification-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ToastNotification-umbrella.h"; sourceTree = "<group>"; };
-		8DFF95E11D78594F692CB91FF040EA8A /* ToastNotification.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ToastNotification.framework; path = ToastNotification.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8DFF95E11D78594F692CB91FF040EA8A /* ToastNotification.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ToastNotification.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C9A4B5BEF367C789B0A65DCA6AAC8542 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		D4A2FD59486DDBA8A776FBDC7F6BEB87 /* ToastNotifications.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ToastNotifications.swift; sourceTree = "<group>"; };
@@ -97,7 +97,6 @@
 			children = (
 				D4A2FD59486DDBA8A776FBDC7F6BEB87 /* ToastNotifications.swift */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -194,7 +193,6 @@
 			children = (
 				08EA8F8AD341D8B913DC0BC56F53149C /* Classes */,
 			);
-			name = ToastNotification;
 			path = ToastNotification;
 			sourceTree = "<group>";
 		};
@@ -432,6 +430,7 @@
 				PRODUCT_NAME = ToastNotification;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -548,6 +547,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";

@@ -18,7 +18,7 @@ public extension UIView {
         let lblToast = UILabel.init(frame: CGRect(x: Int((screenWidth / 2) - (100 / 2)), y: 70, width: 100, height: 20))
         lblToast.text = message
         lblToast.sizeToFit()
-        lblToast.backgroundColor = UIColor.black
+        lblToast.backgroundColor = UIColor.black.withAlphaComponent(0.7)
         lblToast.font = UIFont.systemFont(ofSize: 12.0)
         lblToast.textColor = UIColor.white
         lblToast.textAlignment = .center
